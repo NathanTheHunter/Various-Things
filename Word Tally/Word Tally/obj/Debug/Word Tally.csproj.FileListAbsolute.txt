@@ -1,0 +1,6 @@
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\bin\Debug\Word Tally.exe.config
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\bin\Debug\passage.txt
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\bin\Debug\Word Tally.exe
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\bin\Debug\Word Tally.pdb
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\obj\Debug\Word Tally.exe
+H:\ICS3U-2\programs\Word Tally\Word Tally\Word Tally\obj\Debug\Word Tally.pdb
